@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EZMBaby
 - 👀 I’m interested in Coding, Video Games, Music.
+- Working with HTML/PHP/SQL/C#/JavaScript
 - 🌱 I’m currently learning Java/Python
 - 📫 How to reach me ...
 
