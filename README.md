@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @EZMBaby
 - 👀 I’m interested in Coding, Video Games, Music.
-- Working with HTML/PHP/SQL/C#/JavaScript
-- 🌱 I’m currently learning Java/Python
+- Working with:
+    - HTML/PHP/CSS/JavaScript
+    - C#/Python/SQL/XAML
+- 🌱 I’m currently learning C/XML
 - 📫 How to reach me ...
 
 <!---
